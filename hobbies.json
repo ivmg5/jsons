@@ -1,5 +1,5 @@
 [
-    {"name": "Reading", "picture": "URL"},
-    {"name": "Cooking", "picture": "URL"},
-    {"name": "Hiking", "picture": "URL"}
+    {"name": "Reading", "picture": "https://github.com/ivmg5/jsons/blob/main/reading.png"},
+    {"name": "Cooking", "picture": "https://github.com/ivmg5/jsons/blob/main/cooking.png"},
+    {"name": "Hiking", "picture": "https://github.com/ivmg5/jsons/blob/main/hiking.png"}
 ]

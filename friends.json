@@ -1,5 +1,5 @@
 [
-    {"name": "Alice", "age": "25", "picture": "URL"},
-    {"name": "Bob", "age": "30", "picture": "URL"},
-    {"name": "Charlie", "age": "28", "picture": "URL"}
+    {"name": "Alice", "age": "25", "picture": "https://github.com/ivmg5/jsons/blob/main/alice.png"},
+    {"name": "Bob", "age": "30", "picture": "https://github.com/ivmg5/jsons/blob/main/bob.png"},
+    {"name": "Charlie", "age": "28", "picture": "https://github.com/ivmg5/jsons/blob/main/charlie.png"}
 ]
