@@ -1,5 +1,5 @@
 [
-    {"name": "Alice", "age": "25", "picture": "https://github.com/ivmg5/jsons/blob/main/alice.png"},
-    {"name": "Bob", "age": "30", "picture": "https://github.com/ivmg5/jsons/blob/main/bob.png"},
-    {"name": "Charlie", "age": "28", "picture": "https://github.com/ivmg5/jsons/blob/main/charlie.png"}
+    {"name": "Alice", "age": "25", "picture": "https://raw.githubusercontent.com/ivmg5/jsons/main/alice.png"},
+    {"name": "Bob", "age": "30", "picture": "https://raw.githubusercontent.com/ivmg5/jsons/main/bob.png"},
+    {"name": "Charlie", "age": "28", "picture": "https://raw.githubusercontent.com/ivmg5/jsons/main/charlie.png"}
 ]
